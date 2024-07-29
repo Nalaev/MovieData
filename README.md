@@ -56,7 +56,8 @@ The Excel file after the data cleaning & preparation process completed can be fo
 
                                             {{"Combined Genre", each Text.Combine([Concat Genre], " / "), type text}, {"AllData", each _, type table [Movie Title=nullable text, Release Date=nullable date}
   ```
+### Excel Dashboard
+Can be downloaded here [AANPLdFKQ5qgmO5lWys6_Movies Data Ready for Dashboard (2).xlsx](https://github.com/user-attachments/files/16419990/AANPLdFKQ5qgmO5lWys6_Movies.Data.Ready.for.Dashboard.2.xlsx)
 
-  
    
    
