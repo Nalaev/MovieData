@@ -25,6 +25,7 @@ The following tasks have been performed during the initial data preparation step
  - Discovering and Eliminating Errors and Missing Values
  - Data Cleaning and Formatting
 The Excel file after the data cleaning & preparation process completed can be found here
+[AANPLdFKQ5qgmO5lWys6_Movies Data Ready for Dashboard file.xlsx](https://github.com/user-attachments/files/16419986/AANPLdFKQ5qgmO5lWys6_Movies.Data.Ready.for.Dashboard.file.xlsx)
 
 
    ### Exploratory Data Analysis
