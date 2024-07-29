@@ -1,0 +1,32 @@
+# Movie Data Analysis Project
+
+### Project Overview
+The main goal of this data analysis project is to provide insights into the performance and trends of movies produced during the period of 2012 to 2016 
+I looked at various parts of movie data to find patterns and changes in the industry, and to provide recommendations based on the results of the analysis 
+
+### Data Sources 
+Movie Data: The primary dataset used for this analysis is the "Movie Data Source File.xmls" which contains detailed information about each movie's performance, directors, cast etc.
+
+### Tools
+ - Power Query - I used Power Query for Data Cleaning
+ - Excel, Pivot Tables - These were used for my Data Analysis, Creating Reports and Visualizations
+
+### Data Cleaning and Preparation Process 
+The following tasks have been performed during the initial data preparation step:
+ - Data Loading and Inspection
+ - Discovering and Eliminating Errors and Missing Values
+ - Data Cleaning and Formatting
+
+   ### Exploratory Data Analysis
+ - Which genres were the most financially successful during these years?
+ - Which actors achieved more success and generated more revenue?...
+
+  ### Results and Findings
+   As an example:
+   - The most profitable movie was "The Devil Inside" which had the budget of only USD 1 mln, but it brought the Box Office Revenue of USD 101.8 mln
+   - The least profitable movie was identified as "The Oogieloves in the Big Balloon Adventure" for all years checked with the worst ROI
+   - Top 5 movie revenue generating movie genres and top 5 actors in those movies
+   - The best Director of the most successful movie in these 5 years
+   - The most profitable season for releasing movies
+   
+   
