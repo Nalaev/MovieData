@@ -1,9 +1,9 @@
 # Movie Data Analysis Project
 Table of Content
-- [Project Overview].(#project-overview)
-- [Data Source] (#data-source)
-- [Results and Findings] (#results-and-findings)
-- [Challenges in Analysis]
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Results and Findings](#results-and-findings)
+- [Challenges in Analysis](#challenges-in-analysis)
 
 ### Project Overview
 The main goal of this data analysis project is to provide insights into the performance and trends of movies produced during the period of 2012 to 2016 
@@ -33,5 +33,18 @@ The following tasks have been performed during the initial data preparation step
    - Top 5 movie revenue generating movie genres and top 5 actors in those movies
    - The best Director of the most successful movie in these 5 years
    - The most profitable season for releasing movies
+
+  ### Challenges in Analysis 
+  #### M Language 
+  One of the challenges I encountered during my work was a specific code for Grouping in M Language in order to combine two genres together for further analysis. 
+  Initially there were 2 separate columns for 2 genres a movie was categorized. It was necessary to combine both genres into one showing a combination of genres with / in a 
+  certain wording order only such as action/comedy, but not comedy/action etc. 
+
+  ``` = Table.Group(#"Sorted Rows1", {"Movie Title"}, 
+
+                                            {{"Combined Genre", each Text.Combine([Concat Genre], " / "), type text}, {"AllData", each _, type table [Movie Title=nullable text, Release Date=nullable date}
+  ```
+
+  
    
    
