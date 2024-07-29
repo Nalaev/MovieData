@@ -29,10 +29,15 @@ The following tasks have been performed during the initial data preparation step
   ### Results and Findings
    As an example:
    - The most profitable movie was "The Devil Inside" which had the budget of only USD 1 mln, but it brought the Box Office Revenue of USD 101.8 mln
+
+     
    - The least profitable movie was identified as "The Oogieloves in the Big Balloon Adventure" for all years checked with the worst ROI
    - Top 5 movie revenue generating movie genres and top 5 actors in those movies
    - The best Director of the most successful movie in these 5 years
    - The most profitable season for releasing movies
+     
+![Movies data Dashboard](https://github.com/user-attachments/assets/1ebd7987-70b9-40ad-968b-6ff26fc0bb0f)
+
 
   ### Challenges in Analysis 
   #### M Language 
