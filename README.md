@@ -1,4 +1,9 @@
 # Movie Data Analysis Project
+Table of Content
+- [Project Overview].(#project-overview)
+- [Data Source] (#data-source)
+- [Results and Findings] (#results-and-findings)
+- [Challenges in Analysis]
 
 ### Project Overview
 The main goal of this data analysis project is to provide insights into the performance and trends of movies produced during the period of 2012 to 2016 
