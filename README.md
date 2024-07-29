@@ -12,7 +12,7 @@ I looked at various parts of movie data to find patterns and changes in the indu
 ### Data Sources 
 Movie Data: The primary dataset used for this analysis is the "Movie Data Source File.xmls" which contains detailed information about each movie's performance, directors, cast etc.
 
-### Tools
+### Tools 
  - Power Query - I used Power Query for Data Cleaning
  - Excel, Pivot Tables - These were used for my Data Analysis, Creating Reports and Visualizations
 
