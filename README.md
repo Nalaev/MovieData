@@ -33,7 +33,7 @@ The Excel file after the data cleaning & preparation process completed can be fo
  - Which actors achieved more success and generated more revenue?...
 
   ### Results and Findings
-   As an example:
+   Examples:
    - The most profitable movie was "The Devil Inside" which had the budget of only USD 1 mln, but it brought the Box Office Revenue of USD 101.8 mln
      
    ![Best Profitable Movie](https://github.com/user-attachments/assets/6a5d45a4-fcc3-44b3-8386-775353910738)
